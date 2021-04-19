@@ -31,8 +31,8 @@ This project is created by scraping the data from [Sportsbay.org](sportsbay.org)
 
 ## Meta
 
-[@IamSJ17](https://twitter.com/IamSJ17)
-[https://github.com/joerush18/](https://github.com/joerush18/)
+- [@IamSJ17](https://twitter.com/IamSJ17)
+- [https://github.com/joerush18/](https://github.com/joerush18/)
 
 ## Contributing
 
