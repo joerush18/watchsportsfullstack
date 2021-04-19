@@ -36,7 +36,7 @@ This project is created by scraping the data from [Sportsbay.org](sportsbay.org)
 
 ## Contributing
 
-1. Fork it (<https://github.com/joerush18/watchSports.git/fork>)
+1. Fork it (<https://github.com/joerush18/watchsports.git/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -46,4 +46,4 @@ This project is created by scraping the data from [Sportsbay.org](sportsbay.org)
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[wiki]: https://github.com/joerush18/watchSports.git/wiki
+[wiki]: https://github.com/joerush18/watchsports.git/wiki
