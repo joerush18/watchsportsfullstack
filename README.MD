@@ -31,7 +31,7 @@ This project is created by scraping the data from [Sportsbay.org](sportsbay.org)
 
 ## Meta
 
-Your Name – [@IamSJ17](https://twitter.com/IamSJ17) – JOERUSH
+[@IamSJ17](https://twitter.com/IamSJ17) – JOERUSH
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
