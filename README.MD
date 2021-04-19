@@ -31,10 +31,7 @@ This project is created by scraping the data from [Sportsbay.org](sportsbay.org)
 
 ## Meta
 
-[@IamSJ17](https://twitter.com/IamSJ17) – JOERUSH
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
+[@IamSJ17](https://twitter.com/IamSJ17)
 [https://github.com/joerush18/](https://github.com/joerush18/)
 
 ## Contributing
