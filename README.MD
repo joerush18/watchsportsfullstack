@@ -4,10 +4,10 @@
 [![NPM Version][npm-image]][npm-url]
 
 Watch Sports is created using Following :
-*Cheerio
-*Reactjs
-*Nodejs
-*Material UI
+-Cheerio
+-Reactjs
+-Nodejs
+-Material UI
 
 ![](header.png)
 
