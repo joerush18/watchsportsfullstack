@@ -2,8 +2,6 @@
 > This is a fullstack project created using [React Technology](https://reactjs.org/)
 
 [![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 Watch Sports is created using Following :
 *Cheerio
